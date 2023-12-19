@@ -99,8 +99,7 @@ Publish the website in given url.
 </html>
 ```
 ## OUTPUT:
-
-![output](./calculator-4.png)
+![output](calculator.png)
 
 ## Result:
 Thus the Simple caculated created successfully.
