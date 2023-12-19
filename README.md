@@ -27,7 +27,7 @@ Validate the HTML and CSS code.
 Publish the website in given url.
 
 ### Program:
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -45,7 +45,7 @@ Publish the website in given url.
             font-weight: bold;
             border-radius: 2px;
         }
-
+```
 
         input[type="button"]{
             width: 100%;
