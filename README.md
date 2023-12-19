@@ -27,7 +27,7 @@ Validate the HTML and CSS code.
 Publish the website in given url.
 
 ### Program:
-```
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -97,7 +97,6 @@ Publish the website in given url.
         </form>
     </body>
 </html>
-```
 
 ## OUTPUT:
 ![output](calculator.png)
