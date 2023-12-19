@@ -45,7 +45,6 @@ Publish the website in given url.
             font-weight: bold;
             border-radius: 2px;
         }
-```
 
         input[type="button"]{
             width: 100%;
@@ -97,6 +96,7 @@ Publish the website in given url.
         </form>
     </body>
 </html>
+```
 
 ## OUTPUT:
 ![output](calculator.png)
