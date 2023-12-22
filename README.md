@@ -99,7 +99,8 @@ Publish the website in given url.
 ```
 
 ## OUTPUT:
-![output](calculator.png)
+![cal output](https://github.com/PreethiS647/standard-calculator/assets/147313372/c658d3e4-5ff6-494b-8c55-bd14cf1f943f)
+
 
 ## Result:
 Thus the Simple caculated created successfully.
